@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MottMac.ToyRobot.Simulator": {
+      "commandName": "Project",
+      "commandLineArgs": "TestInput&Output/input.txt ../../../TestInput&Output/output.txt"
+    }
+  }
+}
